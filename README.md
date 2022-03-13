@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Li</h1>
 <h3 align="center">Studying CS+Math @ Harvey Mudd College</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
